@@ -1,0 +1,10 @@
+Package: myfirstRPackage
+Type: Package
+Title: test
+Version: 0.1.0
+Author: ambesh
+Maintainer: ambesh <ambesh.patel@lumedx.com>
+Description: test
+License: no
+Encoding: UTF-8
+LazyData: true

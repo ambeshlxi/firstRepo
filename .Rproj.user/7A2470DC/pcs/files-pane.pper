@@ -1,0 +1,9 @@
+{
+    "path" : "~/myfirstRPackage",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
